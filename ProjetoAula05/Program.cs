@@ -56,7 +56,7 @@ namespace ProjetoAula05
                             = new FuncionarioLAMBDARepository();
                         break;
                     case 2:
-                        //POLIMORFISMO!
+                        //POLIMORFISMOo!
                         funcionarioRepository
                             = new FuncionarioLINQRepository();
                         break;
